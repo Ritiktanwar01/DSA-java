@@ -61,3 +61,106 @@
 //         }
 //     };
 // };
+
+
+
+
+
+// half pyramid inverted
+
+
+// public class Main{
+//     public static void main(String [] args){
+//         int s = 6;
+
+//         for (int i = s; i >= 1; i--){
+//             for (int j = 1; j<=i; j++){
+//                 System.out.print("*");
+//             }
+//             System.out.println();
+//         }
+//     };
+// };
+
+
+
+
+// half pyramid number
+
+
+// public class Main{
+//     public static void main(String [] args){
+//         int s = 4;
+
+//         for (int i = 1; i<= s; i++){
+//             for (int j = 1; j<=i; j++){
+//                 System.out.print(j);
+//             }
+//             System.out.println();
+//         }
+//     };
+// };
+
+
+
+
+// half pyramid inverted with numbers
+
+
+// public class Main{
+//     public static void main(String [] args){
+//         int s = 6;
+
+//         for (int i = s; i >= 1; i--){
+//             for (int j = 1; j<=i; j++){
+//                 System.out.print(j);
+//             }
+//             System.out.println();
+//         }
+//     };
+// };
+
+
+
+
+
+
+// floyed triangle
+
+
+// public class Main{
+//     public static void main(String [] args){
+//         int s = 4;
+//         int ext = 1;
+
+//         for (int i = 1; i<= s; i++){
+            
+//             for (int j = 1; j<=i; j++){
+//                 System.out.print(ext);
+//                 ext++;
+//             }
+//             System.out.println();
+//         }
+//     };
+// };
+
+
+
+// binary half triangle
+
+// public class Main{
+//     public static void main(String [] args){
+//         int s = 5;
+
+//         for (int i = 1; i<= s; i++){
+//             for (int j = 1; j<=i; j++){
+//                 if ((i + j) % 2 == 0){
+//                     System.out.print(1);
+//                 }else{
+//                     System.out.print(0);
+//                 }
+//             }
+//             System.out.println();
+//         }
+//     };
+// };
